@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>icons/browse.png</file>
+        <file>icons/download.png</file>
+        <file>icons/get.png</file>
+    </qresource>
+</RCC>
