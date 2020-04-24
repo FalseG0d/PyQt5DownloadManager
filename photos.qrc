@@ -4,5 +4,10 @@
         <file>icons/browse.png</file>
         <file>icons/download.png</file>
         <file>icons/get.png</file>
+        <file>icons/down.png</file>
+        <file>icons/home.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/youtube.png</file>
+        <file>icons/Logo.png</file>
     </qresource>
 </RCC>
