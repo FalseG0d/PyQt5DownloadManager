@@ -397,16 +397,9 @@ class MainApp(QMainWindow, ui):
 
 
 def main():
-    #Face Recognition
-    args = get_args()
-    depth = args.depth
-    width = args.width
 
-    face = FaceCV(depth=depth, width=width)
-
-    predicted_ages,predicted_genders=face.detect_face()
-    print(predicted_ages)
-    print(predicted_genders)
+    predicted_ages=int(input("[*] Enter Age:"))
+    predicted_genders=input("[*] Enter Gender:")
 
     #Window Forming
     app=QApplication(sys.argv)
