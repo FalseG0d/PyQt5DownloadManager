@@ -17,7 +17,9 @@ def main():
 
     #Window Forming
     app=QApplication(sys.argv)
+
     window=MainApp(age=predicted_ages,gender=predicted_genders)
+    
     window.show()
     app.exec_()
 
