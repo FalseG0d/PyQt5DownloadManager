@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]
 
 The first app to be equipped with a UI Personalization System. Designed to provide you with a personalized user experience. You can download any package with this software.
 
